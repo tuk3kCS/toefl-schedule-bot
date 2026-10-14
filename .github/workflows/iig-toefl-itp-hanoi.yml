@@ -1,9 +1,6 @@
 name: Theo dõi TOEFL ITP máy tính tại Hà Nội
 
 on:
-  schedule:
-    # GitHub Actions dùng UTC. Chạy mỗi 15 phút; lịch có thể bị GitHub trì hoãn.
-    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
 
 permissions:
