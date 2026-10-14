@@ -1,0 +1,22 @@
+{
+  "filter": {
+    "areaCode": "HANOI",
+    "areaName": "Hà Nội",
+    "examCode": "TOEFL-ITP-OL",
+    "examName": "TOEFL ITP - trên máy tính",
+    "lookaheadDays": 60,
+    "onlyOpen": false
+  },
+  "seenFingerprints": [
+    "9d543fb6f0484b58dbb950f073cd3c05daa71d3ca84e179018444ded771e3c57",
+    "dd7c73ac145c49e0b5f3984782699599383fcf53c06d093a1847bb2501bd0052",
+    "2cbc31834dc0c78d2dcf65f95bcac1cb3c448cc13a98e1292adb951ada2d57b2",
+    "5968ce21697e013715f97c15e7eddcbc2d6dbb0d2e2453ae26010af6012311b6",
+    "e8ecbe6233a9beec8bc0ed7006af2f8e554c2b358b8a2ecc77d6e96ae55f6d32",
+    "a019daf25af517d8aefb9f3369539767f93ec94f69e9af153619e33fc7030347",
+    "b3fd9268a23bae8ad91a4bc42359f82d09a138cd9ddab2817150feaea67e8a55",
+    "931f7e2830ed5c3d072ba468b7f42312b800cc5014c81b9329e9ace5aae608c6"
+  ],
+  "updatedAt": "2026-10-14T14:54:48+00:00",
+  "version": 1
+}
